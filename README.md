@@ -16,4 +16,10 @@
 ![](img/Jenkins.png)
 ![](img/Rest-Assured.png)
 
+***
+#### Связаться со мной:
+[в Telegram](https://t.me/ioomoon)
+
+
+
 
