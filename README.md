@@ -1,7 +1,12 @@
-### Добрый день и добро пожаловать! :wave:
-### Меня зовут Лаврушина Мария, на данный момент я обучаюсь автоматизации тестирования на курсах [QA.guru](https://qa.guru/) и работаю младшим специалистом по мобильному тестированию, где активно использую полученные знания.
+### Hi there and glad to welcome you here! :wave:
+
+- My name is Maria Lavrushina
+- I’m currently working as junior QA Engineer
+- I’m currently learning course [QA.guru](https://qa.guru/)
+
+
 ***
-### Мой стек технологий:
+### My skills:
 ![](img/Intelij_IDEA.png "IntelliJ IDEA")
 ![](img/Java.png "Java")
 ![](img/Gradle.png "Gradle")
@@ -17,7 +22,7 @@
 ![](img/Rest-Assured.png "Rest-Assured")
 ![](img/AndroidStudio.png "Android Studio")
 ***
-### Связь со мной:
+### You are welcome to text me:
 
 [![](img/Telegram.png "Telegram")](https://t.me/ioomoon)
 
