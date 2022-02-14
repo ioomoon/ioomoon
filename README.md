@@ -2,7 +2,7 @@
 
 - My name is Maria Lavrushina
 - I’m currently working as junior QA Engineer
-- I’m currently learning course [QA.guru](https://qa.guru/)
+- I’m currently learning course [QA.guru](https://qa.guru/) to using automated testing
 
 
 ***
