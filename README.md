@@ -3,9 +3,9 @@
 - Активно изучаю языки программирования Java и Python.
 - Изучаю автоматизацию тестирования на курсах [QA.guru](https://qa.guru/)
 - В дальнейшем планирую развиваться в QA Automation
-- [Проект автотестов на сайт HH.ru: UI + API tests](https://github.com/ioomoon/QA-guru-graduation.git)
+
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ioomoon&repo=QA-guru-graduation)](https://github.com/ioomoon/QA-guru-graduation.git)
-- [Проект автотестов на мобильное приложение Wikipedia](https://github.com/ioomoon/QA-guru-homework-mobile.git) 
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ioomoon&repo=QA-guru-homework-mobile)](https://github.com/ioomoon/QA-guru-homework-mobile.git)
 
 
 ***
