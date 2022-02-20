@@ -12,4 +12,3 @@
 
 ***
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ioomoon&theme=graywhite&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ioomoon&theme=default)
