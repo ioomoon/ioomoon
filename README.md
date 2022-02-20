@@ -1,14 +1,14 @@
 ![](header.png) 
 
-- My name is Maria Lavrushina
-- I’m currently working as junior QA Engineer
-- I’m currently learning course [QA.guru](https://qa.guru/) to using automated testing
-- [My graduation work: UI + API tests](https://github.com/ioomoon/QA-guru-graduation.git)
-- [My graduation work: Mobile tests](https://github.com/ioomoon/QA-guru-homework-mobile.git)
+- Активно изучаю языки программирования Java и Python.
+- Изучаю автоматизацию тестирования на курсах [QA.guru](https://qa.guru/)
+- В дальнейшем планирую развиваться в QA Automation
+- [Проект автотестов на сайт HH.ru: UI + API tests](https://github.com/ioomoon/QA-guru-graduation.git)
+- [Проект автотестов на мобильное приложение Wikipedia](https://github.com/ioomoon/QA-guru-homework-mobile.git) 
 
 
 ***
-### My skills:
+### Стек технологий:
 ![](img/Intelij_IDEA.png "IntelliJ IDEA")
 ![](img/Java.png "Java")
 ![](img/Gradle.png "Gradle")
@@ -24,7 +24,7 @@
 ![](img/Rest-Assured.png "Rest-Assured")
 ![](img/AndroidStudio.png "Android Studio")
 ***
-### You are welcome to text me:
+### Связаться со мной:
 
 [![](img/Telegram.png "Telegram")](https://t.me/ioomoon)
 
