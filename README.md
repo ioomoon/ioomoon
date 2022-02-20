@@ -29,6 +29,4 @@
 [![](img/Telegram.png "Telegram")](https://t.me/ioomoon)
 
 
-
-
-
+https://img.shields.io/static/v1?label=ioo&message=moon&color=blue
