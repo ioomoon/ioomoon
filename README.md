@@ -1,4 +1,4 @@
-### Hi there and glad to welcome you here! :wave:
+![](header.png) 
 
 - My name is Maria Lavrushina
 - I’m currently working as junior QA Engineer
