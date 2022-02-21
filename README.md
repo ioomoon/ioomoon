@@ -11,4 +11,4 @@
 [![](img/Telegram.png "Telegram")](https://t.me/ioomoon)
 
 ***
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ioomoon&theme=graywhite&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ioomoon&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
