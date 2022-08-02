@@ -9,3 +9,7 @@
 ### Связаться со мной:
 
 [![](img/Telegram.png "Telegram")](https://t.me/ioomoon)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" width="100"/>
+</div>
