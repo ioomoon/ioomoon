@@ -3,8 +3,9 @@
 - Активно изучаю языки программирования Java и Python.
 - Изучала автоматизацию тестирования на курсах [QA.guru](https://qa.guru/)
 - Планирую развиваться в QA Automation
-- [Проект автотестов на сайт HH.ru: UI + API tests](https://github.com/ioomoon/QA-guru-graduation.git)
-- [Проект автотестов на мобильное приложение Wikipedia](https://github.com/ioomoon/QA-guru-homework-mobile.git)
+- [Java. Проект автотестов на сайт HH.ru: UI + API tests](https://github.com/ioomoon/QA-guru-graduation.git)
+- [Java. Проект автотестов на мобильное приложение Wikipedia](https://github.com/ioomoon/QA-guru-homework-mobile.git)
+- [Python. Проект автотестов на Rick and Morty API](https://github.com/ioomoon/RickAndMortyApiTests.git)
 
 ### Связаться со мной:
 <div id="badges">
