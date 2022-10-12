@@ -6,6 +6,7 @@
 - [Java. Проект автотестов на сайт HH.ru: UI + API tests](https://github.com/ioomoon/QA-guru-graduation.git)
 - [Java. Проект автотестов на мобильное приложение Wikipedia](https://github.com/ioomoon/QA-guru-homework-mobile.git)
 - [Python. Проект автотестов на Rick and Morty API](https://github.com/ioomoon/RickAndMortyApiTests.git)
+- [Python. Проект автотестов на HH.ru](https://github.com/ioomoon/HeadHanterUiTestWithPytest.git)
 
 ### Связаться со мной:
 <div id="badges">
